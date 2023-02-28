@@ -1,3 +1,3 @@
-input_string = input("Введіть рядкове значення: ")
-result = input_string if input_string != "" else None
-print(result)
+input_str = input("Enter a string value: ")
+res = input_str if input_str != "" else None
+print(res)
