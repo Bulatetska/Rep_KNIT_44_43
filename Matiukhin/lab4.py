@@ -23,6 +23,7 @@ def fourth():
 
 def fifth():
     ls = [random.randint(0, 5) for i in range(100)]
+    print(ls)
     values = {}
     for x in ls:
         values[x] = values.get(x, 0) + 1
@@ -31,6 +32,7 @@ def fifth():
 
 def sixth():
     dict = {i:random.randint(0, 100) for i in range(10)}
+    print(dict)
     print(dict)
 
     for k, v in dict.items():
@@ -43,7 +45,7 @@ def randname(n:int):
 def seventh():
     values = {randname(5):i for i in range(10)}
     print(values)
-    for k in values.keys():
+    for k in list(values.keys()):
         if k[0] == 'a':
             values.pop(k)
     print(values)
