@@ -1,13 +1,13 @@
 #1
 def maxVal(lst):
     max_val = max(lst)
-    if max_val > 0:
+    if max_val >= 0:
         return max_val
     else:
         return "Число менше 0"
 
 my_list = [-1, 3, 7, 2, 5]
-my_list2 = [-1, 0]
+my_list2 = [-4, -1]
 print("1: ", maxVal(my_list))
 print("1: ", maxVal(my_list2))
 
