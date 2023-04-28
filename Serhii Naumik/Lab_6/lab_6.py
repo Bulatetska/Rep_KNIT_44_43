@@ -1,36 +1,53 @@
 class Car:
-    def __init__(self, brand, color, engine_capacity):
+    def __init__(self, brand, color, engine_size):
         self.brand = brand
         self.color = color
-        self.engine_capacity = engine_capacity
+        self.engine_size = engine_size
     
-    def drive_forward(self):
-        print("Drive forward.")
+    def forward(self):
+        print(self.color, self.brand, "Їде вперед")
     
-    def drive_backward(self):
-        print("Drive backward.")
+    def backward(self):
+        print(self.color, self.brand, "Їде назад")
 
-class CarWithTurn(Car):
-    def turn_left(self):
-        print("Turn left.")
-    
-    def turn_right(self):
-        print("Turn right.")
+Car1 = Car("Audi", "Сіра", '2.0')
 
-class Airplane:
+Car1.forward()
+Car1.backward()
+
+class Car2(Car):
+    def left(self):
+        print(self.color, self.brand, "Повертає ліворуч")
+    
+    def right(self):
+        print(self.color, self.brand, "Повертає праворуч")
+
+с2 = Car2("BMW", "Червона", '1.8')
+
+с2.forward()
+с2.backward()
+с2.left()
+с2.right()
+
+class Plane:
     def __init__(self, model):
         self.model = model
     
-    def takeoff(self):
-        print("Takeoff.")
+    def fly(self):
+        print(self.model, "Злітає!!!")
 
-class FlyingCar(CarWithTurn, Airplane):
-    def __init__(self, brand, color, model):
-        Car.__init__(self, brand, color, engine_capacity=None)
-        Airplane.__init__(self, model)
+a1 = Plane('Hunter')
+a1.fly()
 
-my_flying_car = FlyingCar("Toyota", "red", "Airplane 1")
-my_flying_car.drive_forward()  # виведе "Drive forward."
-my_flying_car.turn_left()      # виведе "Turn left."
-my_flying_car.takeoff()   
-my_flying_car.turn_right()     # виведе "Takeoff."
+class Car2_Plane(Car2, Plane):
+   def __init__(self, brand, color, engine_size, model):
+        Car2.__init__(self, brand, color, engine_size)
+        Plane.__init__(self, model)
+
+ac1 = Car2_Plane("Машина", "Зелана", "Big)", "Typhoon")
+
+ac1.forward()
+ac1.backward()
+ac1.left()
+ac1.right()
+ac1.fly()
