@@ -24,4 +24,4 @@ data = {
 current_date = datetime.datetime.now().strftime("%d;%m;%y")
 file_name = "users_data_"+current_date+".json"
 with open(file_name, 'w') as file:
-    json.dump(data, file, indent=4)
+    json.dump(data, file, ensure_ascii=False, indent=4)
