@@ -8,6 +8,6 @@ def solve_linear_equation(a, b):
         else:
             x = -b / a
             print("Розв'язок рівняння: x =", x)
-        return x  # Додайте цей рядок для повернення значення розв'язку
+        return x
     except ZeroDivisionError:
         print("Помилка: Ділення на нуль.")

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978b5b2e-eef4-4b50-9a21-1de71d897fbc" name="Changes" comment="" />
+    <list default="true" id="978b5b2e-eef4-4b50-9a21-1de71d897fbc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacobi.py" beforeDir="false" afterPath="$PROJECT_DIR$/jacobi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +65,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="571ecdcc-3a13-4340-9ef3-20ee8e15b285" name="Changes" comment="" />
+      <changelist id="978b5b2e-eef4-4b50-9a21-1de71d897fbc" name="Changes" comment="" />
       <created>1685436140797</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
