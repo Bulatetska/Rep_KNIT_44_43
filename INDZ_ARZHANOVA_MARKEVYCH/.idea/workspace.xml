@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="978b5b2e-eef4-4b50-9a21-1de71d897fbc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/INDZ_ARZHANOVA_MARKEVYCH.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INDZ_ARZHANOVA_MARKEVYCH.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <component name="PropertiesComponent">{
+        "keyToString": {
+          "RunOnceActivity.OpenProjectViewOnStart": "true",
+          "RunOnceActivity.ShowReadmeOnStart": "true",
+          "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+        }
+      }</component>
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +38,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Downloads&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
-  }
-}</component>
+    "keyToString": {
+      "RunOnceActivity.OpenProjectViewOnStart": "true",
+      "RunOnceActivity.ShowReadmeOnStart": "true",
+      "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    }
+  }</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="INDZ_ARZHANOVA_MARKEVYCH" />
