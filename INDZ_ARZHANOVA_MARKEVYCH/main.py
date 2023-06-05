@@ -5,27 +5,20 @@
 
 
 def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hi, {name}')  
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
 
 
-# Основна функція
 def main():
     from jacobi import jacobi
-    # Задання матриці коефіцієнтів A
     A = [[4, -1, 1],
          [4, -8, 1],
          [-2, 1, 5]]
-    # Задання вектора правої частини b
     b = [7, -21, 15]
-    # Початкове наближення x0
     x0 = [0, 0, 0]
-    # Точність і максимальна кількість ітерацій
     tolerance = 1e-6
     max_iterations = 100
     solution = jacobi(A, b, x0, tolerance, max_iterations)
@@ -35,34 +28,29 @@ def main():
 
     a = 2
     b = -3
-    solve_linear_equation(a, b)
+    solution =solve_linear_equation(a, b)
+    print("Solution:", solution)
+
 
 from seidel import seidel
 
-# Задання матриці коефіцієнтів A
 A = [[4, -1, 1],
      [4, -8, 1],
      [-2, 1, 5]]
 
-# Задання вектора правої частини b
 b = [7, -21, 15]
 
-# Початкове наближення x0
 x0 = [0, 0, 0]
 
-# Точність і максимальна кількість ітерацій
 tolerance = 1e-6
 max_iterations = 100
 
-# Виклик функції seidel
 solution = seidel(A, b, x0, tolerance, max_iterations)
 
-# Виведення розв'язку
 print("Solution:", [round(val, 3) for val in solution])
 
 
 
-# Виклик основної функції
 if __name__ == "__main__":
     main()
 
@@ -81,15 +69,11 @@ class LinearEquationTest(unittest.TestCase):
         print("Результат тесту:", actual_solution)
 
     def test_seidel(self):
-        # Задання матриці коефіцієнтів A
         A = [[4, -1, 1],
              [4, -8, 1],
              [-2, 1, 5]]
-        # Задання вектора правої частини b
         b = [7, -21, 15]
-        # Початкове наближення x0
         x0 = [0, 0, 0]
-        # Точність і максимальна кількість ітерацій
         tolerance = 1e-6
         max_iterations = 100
         expected_solution = [1.75, 3.5, 3.0]
@@ -100,15 +84,11 @@ class LinearEquationTest(unittest.TestCase):
         print("Результат тесту:", actual_solution)
 
     def test_jacobi(self):
-        # Задання матриці коефіцієнтів A
         A = [[4, -1, 1],
              [4, -8, 1],
              [-2, 1, 5]]
-        # Задання вектора правої частини b
         b = [7, -21, 15]
-        # Початкове наближення x0
         x0 = [0, 0, 0]
-        # Точність і максимальна кількість ітерацій
         tolerance = 1e-6
         max_iterations = 100
         expected_solution = [1.75, 2.625, 3.0]
