@@ -9,60 +9,61 @@ class Rectangle:
         self.x = new_x
         self.y = new_y
 
-    def display(self):
-        print(f"A({self.x}, {self.y}), Width: {self.width}, Height: {self.height}")
+    def intersects(self, other_rectangle):
+        if (self.x < other_rectangle.x + other_rectangle.width and
+                self.x + self.width > other_rectangle.x and
+                self.y < other_rectangle.y + other_rectangle.height and
+                self.y + self.height > other_rectangle.y):
+            return True
+        else:
+            return False
+
+    def touches(self, other_rectangle):
+        if (self.x == other_rectangle.x + other_rectangle.width or
+                self.x + self.width == other_rectangle.x or
+                self.y == other_rectangle.y + other_rectangle.height or
+                self.y + self.height == other_rectangle.y):
+            return True
+        else:
+            return False
 
 
-def check_intersection(rectangle1, rectangle2):
-    x_overlap = (
-        rectangle1.x < rectangle2.x + rectangle2.width and
-        rectangle1.x + rectangle1.width > rectangle2.x
-    )
-    y_overlap = (
-        rectangle1.y < rectangle2.y + rectangle2.height and
-        rectangle1.y + rectangle1.height > rectangle2.y
-    )
-    return x_overlap and y_overlap
 
-def check_touch(rectangle1, rectangle2):
-    x_touch = (
-        rectangle1.x == rectangle2.x + rectangle2.width or
-        rectangle2.x == rectangle1.x + rectangle1.width
-    )
-    y_touch = (
-        rectangle1.y == rectangle2.y + rectangle2.height or
-        rectangle2.y == rectangle1.y + rectangle1.height
-    )
-    return x_touch and y_touch
+# Введення даних для першого прямокутника
 
-# Створення прямокутників:
+x1 = float(input("Введіть x для першого прямокутника: "))
+y1 = float(input("Введіть y для першого прямокутника: "))
+width1 = float(input("Введіть ширину першого прямокутника: "))
+height1 = float(input("Введіть висоту першого прямокутника: "))
 
-rectangle1 = Rectangle(2, 2, 4, 5)
-rectangle2 = Rectangle(2, 2, 3, 3)
+# Введення даних для другого прямокутника
+x2 = float(input("Введіть x для другого прямокутника: "))
+y2 = float(input("Введіть y для другого прямокутника: "))
+width2 = float(input("Введіть ширину другого прямокутника: "))
+height2 = float(input("Введіть висоту другого прямокутника: "))
 
-# Переміщення прямокутників:
+# Створення об'єктів прямокутників
 
-rectangle1.move(5, 5)
-rectangle2.move(1, 1)
+rectangle1 = Rectangle(x1, y1, width1, height1)
+rectangle2 = Rectangle(x2, y2, width2, height2)
 
-# Виведення координат і розмірів прямокутників:
+# Переміщення першого прямокутника
 
-print("Координати та розміри прямокутників:")
-rectangle1.display()
-rectangle2.display()
-print()
+new_x = float(input("Введіть нове значення x для першого прямокутника: "))
+new_y = float(input("Введіть нове значення y для першого прямокутника: "))
+rectangle1.move(new_x, new_y)
 
-# Перевірка перетину та дотику прямокутників:
+# Перевірка перетину та дотику прямокутників
 
-if check_intersection(rectangle1, rectangle2):
-    print("Прямокутники перетинаються.")
+if rectangle1.intersects(rectangle2):
+    print("Прямокутники перетинаються")
 else:
-    print("Прямокутники не перетинаються.")
+    print("Прямокутники не перетинаються")
 
-if check_touch(rectangle1, rectangle2):
-    print("Прямокутники дотикаються.")
+if rectangle1.touches(rectangle2):
+    print("Прямокутники дотикаються")
 else:
-    print("Прямокутники не дотикаються.")
+    print("Прямокутники не дотикаються")
 
 with open("rectangle_data.txt", "w") as file:
     file.write(f"Початкові координати та розміри прямокутника 1: ({rectangle1.x}, {rectangle1.y}), Width: {rectangle1.width}, Height: {rectangle1.height}\n")
