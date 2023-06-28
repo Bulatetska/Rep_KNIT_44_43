@@ -1,43 +1,59 @@
 class Rectangle:
-    def __init__(self, x, y):
+    def __init__(self, x, y, width, height):
         self.x = x
         self.y = y
+        self.width = width
+        self.height = height
 
     def move(self, new_x, new_y):
         self.x = new_x
         self.y = new_y
 
     def display(self):
-        print(f"A({self.x},{self.y})")
+        print(f"A({self.x}, {self.y}), Width: {self.width}, Height: {self.height}")
 
 
 def check_intersection(rectangle1, rectangle2):
-    if (rectangle1.x <= rectangle2.x + 1 and rectangle1.x >= rectangle2.x - 1) and \
-            (rectangle1.y <= rectangle2.y + 1 and rectangle1.y >= rectangle2.y - 1):
-        return True
-    else:
-        return False
-
+    x_overlap = (
+        rectangle1.x < rectangle2.x + rectangle2.width and
+        rectangle1.x + rectangle1.width > rectangle2.x
+    )
+    y_overlap = (
+        rectangle1.y < rectangle2.y + rectangle2.height and
+        rectangle1.y + rectangle1.height > rectangle2.y
+    )
+    return x_overlap and y_overlap
 
 def check_touch(rectangle1, rectangle2):
-    if (rectangle1.x == rectangle2.x and rectangle1.y == rectangle2.y):
-        return True
-    else:
-        return False
-# Створення прямокутника:
-rectangle1 = Rectangle(2, 2)
-rectangle2 = Rectangle(2, 2)
+    x_touch = (
+        rectangle1.x == rectangle2.x + rectangle2.width or
+        rectangle2.x == rectangle1.x + rectangle1.width
+    )
+    y_touch = (
+        rectangle1.y == rectangle2.y + rectangle2.height or
+        rectangle2.y == rectangle1.y + rectangle1.height
+    )
+    return x_touch and y_touch
 
-# Переміщення прямокутника:
-rectangle1.move(2, 2)
+# Створення прямокутників:
 
-# Виведення координат прямокутників:
-print("Координати прямокутників:")
+rectangle1 = Rectangle(2, 2, 4, 5)
+rectangle2 = Rectangle(2, 2, 3, 3)
+
+# Переміщення прямокутників:
+
+rectangle1.move(5, 5)
+rectangle2.move(1, 1)
+
+# Виведення координат і розмірів прямокутників:
+
+print("Координати та розміри прямокутників:")
 rectangle1.display()
 rectangle2.display()
 print()
 
 # Перевірка перетину та дотику прямокутників:
+
 if check_intersection(rectangle1, rectangle2):
     print("Прямокутники перетинаються.")
 else:
@@ -47,3 +63,7 @@ if check_touch(rectangle1, rectangle2):
     print("Прямокутники дотикаються.")
 else:
     print("Прямокутники не дотикаються.")
+
+with open("rectangle_data.txt", "w") as file:
+    file.write(f"Початкові координати та розміри прямокутника 1: ({rectangle1.x}, {rectangle1.y}), Width: {rectangle1.width}, Height: {rectangle1.height}\n")
+    file.write(f"Початкові координати та розміри прямокутника 2: ({rectangle2.x}, {rectangle2.y}), Width: {rectangle2.width}, Height: {rectangle2.height}\n")
