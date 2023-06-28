@@ -1,0 +1,49 @@
+class Rectangle:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+    def move(self, new_x, new_y):
+        self.x = new_x
+        self.y = new_y
+
+    def display(self):
+        print(f"A({self.x},{self.y})")
+
+
+def check_intersection(rectangle1, rectangle2):
+    if (rectangle1.x <= rectangle2.x + 1 and rectangle1.x >= rectangle2.x - 1) and \
+            (rectangle1.y <= rectangle2.y + 1 and rectangle1.y >= rectangle2.y - 1):
+        return True
+    else:
+        return False
+
+
+def check_touch(rectangle1, rectangle2):
+    if (rectangle1.x == rectangle2.x and rectangle1.y == rectangle2.y):
+        return True
+    else:
+        return False
+# Створення прямокутника:
+rectangle1 = Rectangle(2, 2)
+rectangle2 = Rectangle(2, 2)
+
+# Переміщення прямокутника:
+rectangle1.move(2, 2)
+
+# Виведення координат прямокутників:
+print("Координати прямокутників:")
+rectangle1.display()
+rectangle2.display()
+print()
+
+# Перевірка перетину та дотику прямокутників:
+if check_intersection(rectangle1, rectangle2):
+    print("Прямокутники перетинаються.")
+else:
+    print("Прямокутники не перетинаються.")
+
+if check_touch(rectangle1, rectangle2):
+    print("Прямокутники дотикаються.")
+else:
+    print("Прямокутники не дотикаються.")
