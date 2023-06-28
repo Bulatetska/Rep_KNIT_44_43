@@ -1,0 +1,56 @@
+import unittest
+
+# Клас "Прямокутник"
+class Rectangle:
+    def __init__(self, x, y, width, height):
+        self.x = x
+        self.y = y
+        self.width = width
+        self.height = height
+    
+    def move(self, dx, dy):
+        self.x += dx
+        self.y += dy
+    
+    def intersects(self, other):
+        return (self.x < other.x + other.width and
+                self.x + self.width > other.x and
+                self.y < other.y + other.height and
+                self.y + self.height > other.y)
+    
+    def touches(self, other):
+        return ((self.x == other.x + other.width or
+                 self.x + self.width == other.x) and
+                (self.y == other.y + other.height or
+                 self.y + self.height == other.y))
+
+
+# Клас для тестування
+class RectangleTestCase(unittest.TestCase):
+    def setUp(self):
+        self.rectangle1 = Rectangle(0, 0, 4, 4)
+        self.rectangle2 = Rectangle(2, 2, 6, 6)
+    
+    def test_move(self):
+        self.rectangle1.move(2, 2)
+        self.assertEqual(self.rectangle1.x, 2)
+        self.assertEqual(self.rectangle1.y, 2)
+    
+    def test_intersects(self):
+        self.assertTrue(self.rectangle1.intersects(self.rectangle2))
+    
+    def test_does_not_intersect(self):
+        rectangle3 = Rectangle(10, 10, 4, 4)
+        self.assertFalse(self.rectangle1.intersects(rectangle3))
+    
+    def test_touches(self):
+        rectangle4 = Rectangle(4, 4, 2, 2)
+        self.assertTrue(self.rectangle1.touches(rectangle4))
+    
+    def test_does_not_touch(self):
+        rectangle5 = Rectangle(8, 8, 2, 2)
+        self.assertFalse(self.rectangle1.touches(rectangle5))
+
+
+# Запуск модульних тестів
+unittest.main()
