@@ -1,0 +1,7 @@
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\bin\Debug\lab1_Siukh.exe.config
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\bin\Debug\lab1_Siukh.exe
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\bin\Debug\lab1_Siukh.pdb
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\obj\Debug\lab1_Siukh.csproj.AssemblyReference.cache
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\obj\Debug\lab1_Siukh.csproj.CoreCompileInputs.cache
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\obj\Debug\lab1_Siukh.exe
+D:\Навчання\4K_1S\Net\lab\lab1\lab1_Siukh\obj\Debug\lab1_Siukh.pdb
