@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Університет\\4 курс 1 семестр\\Технології .NET\\lab 2\\lab2_1_maliarchuk\\lab2_1_maliarchuk.csproj",
+      "projectUniqueName": "D:\\Університет\\4 курс 1 семестр\\Технології .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 2\\lab2_1_maliarchuk\\lab2_1_maliarchuk.csproj",
       "projectName": "lab2_1_maliarchuk",
-      "projectPath": "D:\\Університет\\4 курс 1 семестр\\Технології .NET\\lab 2\\lab2_1_maliarchuk\\lab2_1_maliarchuk.csproj",
+      "projectPath": "D:\\Університет\\4 курс 1 семестр\\Технології .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 2\\lab2_1_maliarchuk\\lab2_1_maliarchuk.csproj",
       "packagesPath": "C:\\Users\\Dana\\.nuget\\packages\\",
-      "outputPath": "D:\\Університет\\4 курс 1 семестр\\Технології .NET\\lab 2\\lab2_1_maliarchuk\\obj\\",
+      "outputPath": "D:\\Університет\\4 курс 1 семестр\\Технології .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 2\\lab2_1_maliarchuk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dana\\AppData\\Roaming\\NuGet\\NuGet.Config",

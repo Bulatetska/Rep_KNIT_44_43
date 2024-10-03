@@ -7,7 +7,6 @@ class Program
         Console.Write("Введіть кількість чисел у масиві: ");
         int CountOfNumbers = Convert.ToInt32(Console.ReadLine());
 
-        // Initialize the array with the specified size
         double[] numbers = new double[CountOfNumbers];
 
         for (int i = 0; i < CountOfNumbers; i++)
@@ -26,17 +25,16 @@ class Program
             {
                 maxElement = numbers[i];
                 firstMaxIndex = i;
-                countMax = 1; // скидаємо лічильник, оскільки знайшли новий максимум
+                countMax = 1; 
             }
             else if (numbers[i] == maxElement)
             {
-                countMax++; // збільшуємо лічильник для повторів
+                countMax++; 
             }
         }
 
-        // Виведення результату
-        Console.WriteLine($"Максимальний елемент: {maxElement}");
-        Console.WriteLine($"Кількість повторень максимального елемента: {countMax}");
-        Console.WriteLine($"Перший індекс максимального елемента: {firstMaxIndex + 1}"); // Додаємо 1, оскільки індексація починається з 0
+        Console.WriteLine("Максимальний елемент: " + maxElement);
+        Console.WriteLine("Кількість повторень максимального елемента: " + countMax);
+        Console.WriteLine("Перший індекс максимального елемента: " + (firstMaxIndex + 1) ); 
     }
 }
