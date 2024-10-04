@@ -9,6 +9,7 @@ class Program
         Console.WriteLine("1 - Лабораторна 1");
             Console.WriteLine("2 - Лабораторна 2");
             Console.WriteLine("3 - Лабораторна 3"); 
+            Console.WriteLine("4 - Лабораторна 4");
         string choice = Console.ReadLine();
 
         if (choice == "1")
@@ -22,6 +23,10 @@ class Program
         else if (choice == "3")
         {
             Task3.Run();  
+        }
+        else if (choice == "4")
+        {
+            Task4.Run();  
         }
     }
 }
@@ -159,6 +164,7 @@ public class Task1
   
 public class Task2
 {
+    
     public static void Run()
     {
         Console.WriteLine("Це лабораторна 2");
@@ -470,4 +476,125 @@ public class Hero
     public string Name { get; set; }
     public int YearOfBirth { get; set; }
     public string Comics { get; set; }
+}
+
+public class Student
+{
+    public int ID { get; set; }
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public List<Course> Courses { get; set; }
+}
+
+public class Course
+{
+    public int ID { get; set; }
+    public string CourseName { get; set; }
+    public int DurationHours { get; set; }  
+}
+
+public class Task4{
+    public static void Run()
+    {
+    var courses = new List<Course>
+{
+    new Course { ID = 1, CourseName = "Математика", DurationHours = 60 },
+    new Course { ID = 2, CourseName = "Фізика", DurationHours = 40 },
+    new Course { ID = 3, CourseName = "Хімія", DurationHours = 50 }
+};
+
+var students = new List<Student>
+{
+    new Student { ID = 1, Name = "Анна", Age = 19, Courses = new List<Course> { courses[0], courses[1] } },
+    new Student { ID = 2, Name = "Богдан", Age = 22, Courses = new List<Course> { courses[1], courses[2] } },
+    new Student { ID = 3, Name = "Віктор", Age = 24, Courses = new List<Course> { courses[0], courses[2] } },
+    new Student { ID = 4, Name = "Дарія", Age = 18, Courses = new List<Course> { courses[1] } },
+    new Student { ID = 5, Name = "Олексій", Age = 21, Courses = new List<Course> { courses[2] } }
+};
+var studentsOlderThan20 = students.Where(s => s.Age > 20);
+
+Console.WriteLine("Студенти старші за 20 років:");
+foreach (var student in studentsOlderThan20)
+{
+    Console.WriteLine(student.Name);
+}
+var mathStudents = students.Where(s => s.Courses.Any(c => c.CourseName == "Математика"));
+
+Console.WriteLine("Студенти, які записані на Математику:");
+foreach (var student in mathStudents)
+{
+    Console.WriteLine(student.Name);
+}
+var studentCoursesCount = students.Select(s => new
+{
+    Name = s.Name,
+    CourseCount = s.Courses.Count
+});
+
+Console.WriteLine("Кількість курсів для кожного студента:");
+foreach (var item in studentCoursesCount)
+{
+    Console.WriteLine($"{item.Name} записаний на {item.CourseCount} курсів.");
+}
+var studentsSortedByCourses = students
+    .OrderByDescending(s => s.Courses.Count);
+
+Console.WriteLine("Студенти, відсортовані за кількістю курсів:");
+foreach (var student in studentsSortedByCourses)
+{
+    Console.WriteLine($"{student.Name} - {student.Courses.Count} курсів.");
+}
+var studentsStartingWithA = students
+    .Where(s => s.Name.StartsWith("А"))
+    .OrderByDescending(s => s.Age);
+
+Console.WriteLine("Студенти, чиї імена починаються на 'А', відсортовані за віком:");
+foreach (var student in studentsStartingWithA)
+{
+    Console.WriteLine($"{student.Name} - {student.Age} років.");
+}
+var studentCourseInfo = students
+    .SelectMany(s => s.Courses, (student, course) => new
+    {
+        StudentName = student.Name,
+        CourseName = course.CourseName
+    });
+
+Console.WriteLine("Інформація про студентів та їхні курси:");
+foreach (var info in studentCourseInfo)
+{
+    Console.WriteLine($"Студент {info.StudentName} записаний на курс {info.CourseName}");
+}
+var ageGroups = students
+    .GroupBy(s => s.Age < 18 ? "Молодший за 18" :
+                  s.Age <= 22 ? "Від 18 до 22" : "Старший за 22")
+    .Select(g => new { AgeCategory = g.Key, StudentCount = g.Count() });
+
+Console.WriteLine("Кількість студентів у вікових категоріях:");
+foreach (var group in ageGroups)
+{
+    Console.WriteLine($"{group.AgeCategory}: {group.StudentCount} студентів.");
+}
+var totalHours = courses.Sum(c => c.DurationHours);
+var averageDuration = courses.Average(c => c.DurationHours);
+var longestCourse = courses.OrderByDescending(c => c.DurationHours).FirstOrDefault();
+
+Console.WriteLine($"Сумарна тривалість курсів: {totalHours} годин.");
+Console.WriteLine($"Середня тривалість курсу: {averageDuration} годин.");
+Console.WriteLine($"Курс із максимальною тривалістю: {longestCourse?.CourseName} - {longestCourse?.DurationHours} годин.");
+var studentsWithCourseCount = students
+    .Select(s => new
+    {
+        StudentName = s.Name,
+        CourseCount = s.Courses.Count
+    });
+
+Console.WriteLine("Студенти та кількість курсів:");
+foreach (var student in studentsWithCourseCount)
+{
+    Console.WriteLine($"{student.StudentName} записаний на {student.CourseCount} курсів.");
+}
+
+
+    }
 }
