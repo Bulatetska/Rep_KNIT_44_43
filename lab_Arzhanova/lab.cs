@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
 class Program
 {
     static void Main(string[] args)
@@ -5,6 +8,7 @@ class Program
         Console.WriteLine("Оберіть лабораторну");
         Console.WriteLine("1 - Лабораторна 1");
             Console.WriteLine("2 - Лабораторна 2");
+            Console.WriteLine("3 - Лабораторна 3"); 
         string choice = Console.ReadLine();
 
         if (choice == "1")
@@ -15,11 +19,12 @@ class Program
         {
             Task2.Run(); 
         }
+        else if (choice == "3")
+        {
+            Task3.Run();  
+        }
     }
 }
-
-
-
 public class Task1
 {
     public static void Run()
@@ -152,7 +157,6 @@ public class Task1
     }
 }
   
-
 public class Task2
 {
     public static void Run()
@@ -359,3 +363,111 @@ public class Task2
     }
     }
 
+public class Task3
+{
+    public static void Run()
+    {
+        List<Hero> heroes = GetSuperheroes();
+
+        // 1. Імена супергероїв, які народилися в 1941 р.
+        Console.WriteLine("Завдання 1: Імена супергероїв, які народилися в 1941 році:");
+
+        // Імперативний спосіб
+        Console.WriteLine("Імперативний спосіб:");
+        foreach (var hero in heroes)
+        {
+            if (hero.YearOfBirth == 1941)
+            {
+                Console.WriteLine(hero.Name);
+            }
+        }
+
+        // Декларативний спосіб (LINQ)
+        Console.WriteLine("Декларативний спосіб (LINQ):");
+        var heroesBornIn1941 = heroes
+            .Where(hero => hero.YearOfBirth == 1941)
+            .Select(hero => hero.Name);
+
+        foreach (var hero in heroesBornIn1941)
+        {
+            Console.WriteLine(hero);
+        }
+
+        // 2. Назви коміксів, відсортовані в алфавітному порядку
+        Console.WriteLine("\nЗавдання 2: Назви коміксів в алфавітному порядку:");
+
+        // Імперативний спосіб
+        Console.WriteLine("Імперативний спосіб:");
+        List<string> comicsTitlesImperative = new List<string>();
+        foreach (var hero in heroes)
+        {
+            if (!comicsTitlesImperative.Contains(hero.Comics))
+            {
+                comicsTitlesImperative.Add(hero.Comics);
+            }
+        }
+        comicsTitlesImperative.Sort();
+
+        foreach (var title in comicsTitlesImperative)
+        {
+            Console.WriteLine(title);
+        }
+
+        // Декларативний спосіб (LINQ)
+        Console.WriteLine("Декларативний спосіб (LINQ):");
+        var comicsTitlesDeclarative = heroes
+            .Select(hero => hero.Comics)
+            .Distinct()
+            .OrderBy(title => title);
+
+        foreach (var title in comicsTitlesDeclarative)
+        {
+            Console.WriteLine(title);
+        }
+
+        // 3. Імена супергероїв та дати їх народження, відсортовані в порядку спадання
+        Console.WriteLine("\nЗавдання 3: Імена супергероїв та дати народження (за спаданням):");
+
+        // Імперативний спосіб
+        Console.WriteLine("Імперативний спосіб:");
+        List<Hero> sortedHeroesImperative = new List<Hero>(heroes);
+        sortedHeroesImperative.Sort((x, y) => y.YearOfBirth.CompareTo(x.YearOfBirth));
+
+        foreach (var hero in sortedHeroesImperative)
+        {
+            Console.WriteLine($"{hero.Name} - {hero.YearOfBirth}");
+        }
+
+        // Декларативний спосіб (LINQ)
+        Console.WriteLine("Декларативний спосіб (LINQ):");
+        var heroesSortedByBirthDate = heroes
+            .OrderByDescending(hero => hero.YearOfBirth)
+            .Select(hero => $"{hero.Name} - {hero.YearOfBirth}");
+
+        foreach (var hero in heroesSortedByBirthDate)
+        {
+            Console.WriteLine(hero);
+        }
+    }
+
+    private static List<Hero> GetSuperheroes()
+    {
+        // Імітація бази даних супергероїв
+        return new List<Hero>
+        {
+            new Hero { Name = "Batman", YearOfBirth = 1939, Comics = "DC" },
+            new Hero { Name = "Wonder Woman", YearOfBirth = 1941, Comics = "DC" },
+            new Hero { Name = "Spider-Man", YearOfBirth = 1962, Comics = "Marvel" },
+            new Hero { Name = "Captain America", YearOfBirth = 1941, Comics = "Marvel" },
+            new Hero { Name = "Superman", YearOfBirth = 1938, Comics = "DC" }
+        };
+    }
+}
+
+// Клас для супергероя
+public class Hero
+{
+    public string Name { get; set; }
+    public int YearOfBirth { get; set; }
+    public string Comics { get; set; }
+}
