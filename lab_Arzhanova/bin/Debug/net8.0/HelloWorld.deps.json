@@ -1,0 +1,234 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HelloWorld/1.0.0": {
+        "dependencies": {
+          "Accord.Math": "3.8.0",
+          "Google.OrTools": "9.9.3963",
+          "MathNet.Numerics": "5.0.0",
+          "Unofficial.Microsoft.Solver.Foundation.Express": "3.0.4"
+        },
+        "runtime": {
+          "HelloWorld.dll": {}
+        }
+      },
+      "Accord/3.8.0": {
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      },
+      "Accord.Math/3.8.0": {
+        "dependencies": {
+          "Accord": "3.8.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Math.Core.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          },
+          "lib/netstandard2.0/Accord.Math.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.6134"
+          }
+        }
+      },
+      "Google.OrTools/9.9.3963": {
+        "dependencies": {
+          "Google.OrTools.runtime.linux-arm64": "9.9.3963",
+          "Google.OrTools.runtime.linux-x64": "9.9.3963",
+          "Google.OrTools.runtime.osx-arm64": "9.9.3963",
+          "Google.OrTools.runtime.osx-x64": "9.9.3963",
+          "Google.OrTools.runtime.win-x64": "9.9.3963",
+          "Google.Protobuf": "3.25.3"
+        },
+        "runtime": {
+          "lib/net6.0/Google.OrTools.dll": {
+            "assemblyVersion": "9.9.3963.0",
+            "fileVersion": "9.9.3963.0"
+          }
+        }
+      },
+      "Google.OrTools.runtime.linux-arm64/9.9.3963": {
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/google-ortools-native.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libortools.so.9": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Google.OrTools.runtime.linux-x64/9.9.3963": {
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/google-ortools-native.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libortools.so.9": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Google.OrTools.runtime.osx-arm64/9.9.3963": {
+        "runtimeTargets": {
+          "runtimes/osx-arm64/native/google-ortools-native.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/libortools.9.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Google.OrTools.runtime.osx-x64/9.9.3963": {
+        "runtimeTargets": {
+          "runtimes/osx-x64/native/google-ortools-native.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libortools.9.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Google.OrTools.runtime.win-x64/9.9.3963": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/google-ortools-native.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.25.3": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.25.3.0",
+            "fileVersion": "3.25.3.0"
+          }
+        }
+      },
+      "MathNet.Numerics/5.0.0": {
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Unofficial.Microsoft.Solver.Foundation.Express/3.0.4": {
+        "runtime": {
+          "lib/net40/Microsoft.Solver.Foundation.dll": {
+            "assemblyVersion": "3.0.2.10889",
+            "fileVersion": "3.0.2.10889"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accord/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7kJrB570dO5ELim+2KWQNozuvWO9/BuZfZspdFy36fcWPNF2CEccblLuILeUlI8QJYd2DlBy0bfK8BlCx/uayA==",
+      "path": "accord/3.8.0",
+      "hashPath": "accord.3.8.0.nupkg.sha512"
+    },
+    "Accord.Math/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K3dzeQjDIrwRnoTRoMOoIbul2Uc0B8cnEtdrSlirmIo37C+jVkmYpJzme/z4Kg99XR2Vj5W5TTNlhjn+AKR+8A==",
+      "path": "accord.math/3.8.0",
+      "hashPath": "accord.math.3.8.0.nupkg.sha512"
+    },
+    "Google.OrTools/9.9.3963": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7sS6B1AgRHdMlP6KOiIOtWNjV6QACGCoMUrMZ4dGQy+2Y/phqFfh61SBn0gKnzHSNZRAU8E/BtUGOa7sUv7v5g==",
+      "path": "google.ortools/9.9.3963",
+      "hashPath": "google.ortools.9.9.3963.nupkg.sha512"
+    },
+    "Google.OrTools.runtime.linux-arm64/9.9.3963": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+xEhOkBBe1udy+eJ5j780Tn/MQZ2JdFL4IOwjH1zAuJjWYBw4VMBD8lzGinT8cG2bTmdaGJA+bkL+zZVZWI3Lg==",
+      "path": "google.ortools.runtime.linux-arm64/9.9.3963",
+      "hashPath": "google.ortools.runtime.linux-arm64.9.9.3963.nupkg.sha512"
+    },
+    "Google.OrTools.runtime.linux-x64/9.9.3963": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wfDR1cifntypi6aHVfwKEHY2tauTOE33n1Yq68x8d3dIZMWM6mxkAxZXARIwZD35IVRQMYK+KHaEziV4xZb10w==",
+      "path": "google.ortools.runtime.linux-x64/9.9.3963",
+      "hashPath": "google.ortools.runtime.linux-x64.9.9.3963.nupkg.sha512"
+    },
+    "Google.OrTools.runtime.osx-arm64/9.9.3963": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LiJSLcdFeRb57scpiAuKEiP3vcZihKXC+HecvQvR72HiJoCrw3FpQNT2gyd1YEmdmjK+nZwGEjr1fVjfaYcXHQ==",
+      "path": "google.ortools.runtime.osx-arm64/9.9.3963",
+      "hashPath": "google.ortools.runtime.osx-arm64.9.9.3963.nupkg.sha512"
+    },
+    "Google.OrTools.runtime.osx-x64/9.9.3963": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EHno6lHjUZeHg3pBjheaUBaIj07ynuSGh697FuGbkdkVjIdq5+k0Jx3L6hyYf6p8PbhXeJwKu13e59eyDZzGrQ==",
+      "path": "google.ortools.runtime.osx-x64/9.9.3963",
+      "hashPath": "google.ortools.runtime.osx-x64.9.9.3963.nupkg.sha512"
+    },
+    "Google.OrTools.runtime.win-x64/9.9.3963": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9yXXTzkmPD6qUree85zp6YzPvakIszjL/XKiA43WJpvuy5S/tH4rP4Kqfd4cJNzB0nkOpKgJM7qfS8UNB4LVnA==",
+      "path": "google.ortools.runtime.win-x64/9.9.3963",
+      "hashPath": "google.ortools.runtime.win-x64.9.9.3963.nupkg.sha512"
+    },
+    "Google.Protobuf/3.25.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fDY/kt0gy2nVcoeMmiyDMtwgvDJG5qaU7+Ic77szKTvVkIvoo7tyf+d+QDlKSosB+FjoKocX/ObObxqKCq60uA==",
+      "path": "google.protobuf/3.25.3",
+      "hashPath": "google.protobuf.3.25.3.nupkg.sha512"
+    },
+    "MathNet.Numerics/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "path": "mathnet.numerics/5.0.0",
+      "hashPath": "mathnet.numerics.5.0.0.nupkg.sha512"
+    },
+    "Unofficial.Microsoft.Solver.Foundation.Express/3.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I4obIB9M7mVO2L8b/cDV+eXI6JyAbQmDt2ZBk5b4P+ObDRHnRRncgP8HuY6UIcdZH0j/n1NMcJyG5nzP+KPaHA==",
+      "path": "unofficial.microsoft.solver.foundation.express/3.0.4",
+      "hashPath": "unofficial.microsoft.solver.foundation.express.3.0.4.nupkg.sha512"
+    }
+  }
+}
