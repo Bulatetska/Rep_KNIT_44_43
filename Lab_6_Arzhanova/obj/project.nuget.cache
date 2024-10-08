@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2spkFjACRKo=",
+  "dgSpecHash": "LY18kWm0hCM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Lab_5_Arzhanova\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Lab_6_Arzhanova\\HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",

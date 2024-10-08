@@ -1,224 +1,147 @@
 using System;
 
-// Клас Person, без змін
-class Person
+namespace Geometry
 {
-    private string name;
-    private int age;
-    private string gender;
-    private string phoneNumber;
-
-    // Метод для зміни імені
-    public void SetName(string newName) => name = newName;
-
-    // Метод для отримання імені
-    public string GetName() => name;
-
-    // Метод для зміни віку
-    public void SetAge(int newAge) => age = newAge;
-
-    // Метод для отримання віку
-    public int GetAge() => age;
-
-    // Метод для зміни статі
-    public void SetGender(string newGender) => gender = newGender;
-
-    // Метод для отримання статі
-    public string GetGender() => gender;
-
-    // Метод для зміни телефонного номера
-    public void SetPhoneNumber(string newPhoneNumber) => phoneNumber = newPhoneNumber;
-
-    // Метод для отримання телефонного номера
-    public string GetPhoneNumber() => phoneNumber;
-
-    // Метод Print(), який виводить інформацію про людину
-    public void Print() => Console.WriteLine($"Name: {name}, Age: {age}, Gender: {gender}, Phone: {phoneNumber}");
-}
-
-// Базовий клас Student
-class Student
-{
-    public string LastName { get; set; }
-    public int Course { get; set; }
-    public string RecordBookNumber { get; set; }
-
-    // Конструктор із параметрами
-    public Student(string lastName, int course, string recordBookNumber)
+    // Абстрактний клас Figure
+    abstract class Figure
     {
-        LastName = lastName;
-        Course = course;
-        RecordBookNumber = recordBookNumber;
+        private string name; // Назва фігури
+
+        // Конструктор з 1 параметром
+        public Figure(string name)
+        {
+            this.name = name;
+        }
+
+        // Властивість для доступу до поля name
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        // Абстрактна властивість для площі
+        public abstract double Area2 { get; }
+
+        // Абстрактний метод для обчислення площі
+        public abstract double Area();
+
+        // Віртуальний метод Print для виведення назви фігури
+        public virtual void Print()
+        {
+            Console.WriteLine($"Figure: {name}");
+        }
     }
 
-    // Метод Print()
-    public virtual void Print() => Console.WriteLine($"Student: {LastName}, Course: {Course}, RecordBook: {RecordBookNumber}");
-}
-
-// Похідний клас Aspirant
-class Aspirant : Student
-{
-    public string ResearchTopic { get; set; } // Додаткове поле для аспіранта
-
-    // Конструктор із використанням base і додатковим параметром ResearchTopic
-    public Aspirant(string lastName, int course, string recordBookNumber, string researchTopic)
-        : base(lastName, course, recordBookNumber)
+    // Клас Triangle, успадковує Figure
+    class Triangle : Figure
     {
-        ResearchTopic = researchTopic;
+        private double a, b, c; // Сторони трикутника
+
+        // Конструктор з 4 параметрами
+        public Triangle(string name, double a, double b, double c)
+            : base(name)
+        {
+            if ((a + b > c) && (b + c > a) && (a + c > b))
+            {
+                this.a = a;
+                this.b = b;
+                this.c = c;
+            }
+            else
+            {
+                Console.WriteLine("Invalid triangle sides. Setting default values (1, 1, 1).");
+                this.a = this.b = this.c = 1;
+            }
+        }
+
+        // Властивість для площі трикутника (формула Герона)
+        public override double Area2
+        {
+            get
+            {
+                double p = (a + b + c) / 2;
+                return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+            }
+        }
+
+        // Метод для обчислення площі трикутника
+        public override double Area()
+        {
+            return Area2;
+        }
+
+        // Перевизначений метод Print для виведення інформації про трикутник
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine($"Sides: a = {a}, b = {b}, c = {c}");
+            Console.WriteLine($"Area: {Area()}");
+        }
     }
 
-    // метод Print()
-    public override void Print()
+    // Клас TriangleColor, успадковує Triangle
+    class TriangleColor : Triangle
     {
-        base.Print();
-        Console.WriteLine($"Research Topic: {ResearchTopic}");
-    }
-}
+        private string color; // Колір фону трикутника
 
-// Клас Book
-class Book
-{
-    public string Title { get; set; }
-    public string Author { get; set; }
-    public double Price { get; set; }
+        // Конструктор з 5 параметрами
+        public TriangleColor(string name, double a, double b, double c, string color)
+            : base(name, a, b, c)
+        {
+            this.color = color;
+        }
 
-    // Конструктор із 3 параметрами
-    public Book(string title, string author, double price)
-    {
-        Title = title;
-        Author = author;
-        Price = price;
-    }
+        // Властивість для доступу до поля color
+        public string Color
+        {
+            get { return color; }
+            set { color = value; }
+        }
 
-    // Метод Print()
-    public virtual void Print() => Console.WriteLine($"Title: {Title}, Author: {Author}, Price: {Price}");
-}
+        // Властивість Area2 (викликає Area2 базового класу)
+        public override double Area2
+        {
+            get
+            {
+                Console.WriteLine("Calculating area in TriangleColor...");
+                return base.Area2;
+            }
+        }
 
-// Похідний клас BookGenre
-class BookGenre : Book
-{
-    public string Genre { get; set; }
+        // Метод Area (викликає Area базового класу)
+        public override double Area()
+        {
+            Console.WriteLine("Using method Area in TriangleColor...");
+            return base.Area();
+        }
 
-    // Конструктор із 4 параметрами
-    public BookGenre(string title, string author, double price, string genre)
-        : base(title, author, price)
-    {
-        Genre = genre;
-    }
-
-    // Перевизначений метод Print()
-    public override void Print()
-    {
-        base.Print();
-        Console.WriteLine($"Genre: {Genre}");
-    }
-}
-
-// Похідний клас BookGenrePubl (sealed - остаточний клас)
-sealed class BookGenrePubl : BookGenre
-{
-    public string Publisher { get; set; }
-
-    // Конструктор із 5 параметрами
-    public BookGenrePubl(string title, string author, double price, string genre, string publisher)
-        : base(title, author, price, genre)
-    {
-        Publisher = publisher;
+        // Віртуальний метод Print для виведення внутрішніх полів
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine($"Color: {color}");
+        }
     }
 
-    // Перевизначений метод Print()
-    public override void Print()
+    class Program
     {
-        base.Print();
-        Console.WriteLine($"Publisher: {Publisher}");
-    }
-}
+        static void Main(string[] args)
+        {
+            // Створення екземплярів класів
+            Figure triangle = new Triangle("Simple Triangle", 3, 4, 5);
+            Figure coloredTriangle = new TriangleColor("Colored Triangle", 3, 4, 5, "Red");
 
-// Клас Figure
-class Figure
-{
-    public string Name { get; set; }
+            // Виклик методів Print і Area через базовий клас Figure
+            triangle.Print();
+            Console.WriteLine();
 
-    public Figure(string name) => Name = name;
+            coloredTriangle.Print();
+            Console.WriteLine();
 
-    public virtual void Display() => Console.WriteLine($"Figure: {Name}");
-}
-
-// Похідний клас Rectangle
-class Rectangle : Figure
-{
-    public int X1 { get; set; }
-    public int Y1 { get; set; }
-    public int X2 { get; set; }
-    public int Y2 { get; set; }
-
-    // Конструктор із 5 параметрами
-    public Rectangle(string name, int x1, int y1, int x2, int y2)
-        : base(name)
-    {
-        X1 = x1;
-        Y1 = y1;
-        X2 = x2;
-        Y2 = y2;
-    }
-
-    public Rectangle() : this("Rectangle", 0, 0, 1, 1) { }
-
-    public override void Display()
-    {
-        base.Display();
-        Console.WriteLine($"Coordinates: ({X1}, {Y1}), ({X2}, {Y2})");
-    }
-
-    public int Area() => Math.Abs((X2 - X1) * (Y2 - Y1));
-}
-
-// Похідний клас RectangleColor
-class RectangleColor : Rectangle
-{
-    public string Color { get; set; }
-
-    public RectangleColor(string name, int x1, int y1, int x2, int y2, string color)
-        : base(name, x1, y1, x2, y2) => Color = color;
-
-    public RectangleColor() : this("Colored Rectangle", 0, 0, 1, 1, "red") { }
-
-    public override void Display()
-    {
-        base.Display();
-        Console.WriteLine($"Color: {Color}");
-    }
-
-    public new int Area() => base.Area();
-}
-
-// Точка входу
-class Program
-{
-   static void Main(string[] args)
-    {
-        // Створення та виведення інформації про студента
-    Student student = new Student("Smith", 3, "12345");
-    student.Print();
-
-    // Створення та виведення інформації про аспіранта
-    Aspirant aspirant = new Aspirant("Johnson", 4, "67890", "Machine Learning in Image Processing");
-    aspirant.Print();
-        // Оголосити посилання на базовий клас Figure
-        Figure figure;
-
-        // Створити екземпляр класу Rectangle з координатами за замовчуванням (0, 0) та (1, 1)
-        figure = new Rectangle(); // Використовується конструктор без параметрів
-        
-        // Виклик методу Display() для класу Rectangle через посилання на Figure
-        figure.Display(); // Виведе: Coordinates: (0, 0), (1, 1)
-
-        // Створити екземпляр класу RectangleColor
-        figure = new RectangleColor("ColoredRectangle1", 2, 3, 7, 8, "blue");
-        figure.Display(); // Виведе координати (2, 3), (7, 8)
-
-        // Використання типізації для доступу до Area()
-        RectangleColor coloredRectangle = (RectangleColor)figure;
-        Console.WriteLine($"Area: {coloredRectangle.Area()}");
+            // Виведення площі через властивість Area2
+            Console.WriteLine($"Area of {triangle.Name}: {triangle.Area2}");
+            Console.WriteLine($"Area of {coloredTriangle.Name}: {coloredTriangle.Area2}");
+        }
     }
 }
