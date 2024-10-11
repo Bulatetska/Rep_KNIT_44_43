@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_9_Arzhanova\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_9_Arzhanova\\lab_9_arzhanova\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|solutionrelative:lab_9_arzhanova\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|c:\\users\\dell\\documents\\github\\rep_knit_44_43\\arzhanova\\lab_9_arzhanova\\lab_9_arzhanova\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_9_Arzhanova\\lab_9_arzhanova\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|solutionrelative:lab_9_arzhanova\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|c:\\users\\dell\\documents\\github\\rep_knit_44_43\\arzhanova\\lab_9_arzhanova\\lab_9_arzhanova\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|c:\\users\\dell\\documents\\github\\rep_knit_44_43\\arzhanova\\lab_9_arzhanova\\lab_9_arzhanova\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|solutionrelative:lab_9_arzhanova\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_9_Arzhanova\\lab_9_arzhanova\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9FFF8F80-E17C-4E1D-9E15-25DBE9641BD7}|Lab_9_Arzhanova\\Lab_9_Arzhanova.csproj|solutionrelative:lab_9_arzhanova\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -41,11 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_9_Arzhanova\\Lab_9_Arzhanova\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Lab_9_Arzhanova\\MainWindow.xaml",
@@ -57,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookViewModel.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_9_Arzhanova\\Lab_9_Arzhanova\\ViewModel\\BookViewModel.cs",
               "RelativeDocumentMoniker": "Lab_9_Arzhanova\\ViewModel\\BookViewModel.cs",
@@ -78,8 +78,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAHcAAAADAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:28:05.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:28:05.778Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "Lab_9_Arzhanova\\StringNullOrEmptyToVisibilityConverter.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAiwAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:40:13.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:40:13.854Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "Lab_9_Arzhanova\\Model\\Book.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:56:25.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:56:25.811Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "Lab_9_Arzhanova\\ViewModel\\RelayCommand.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:02:33.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:02:33.18Z"
             },
             {
               "$type": "Document",

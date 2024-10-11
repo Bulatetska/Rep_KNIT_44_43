@@ -26,7 +26,7 @@
                 <TextBox x:Name="TitleTextBox" 
                  Text="{Binding SelectedBook.Title, UpdateSourceTrigger=PropertyChanged}" 
                  Width="200" />
-                <TextBlock Text="Введите название книги..." 
+                <TextBlock Text="Name..." 
                    Foreground="Gray" 
                    VerticalAlignment="Center" 
                    Margin="10,0,0,0"
