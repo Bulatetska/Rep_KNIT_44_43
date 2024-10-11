@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\bin\Debug\Lab_9_Arzhanova.exe.config
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\bin\Debug\Lab_9_Arzhanova.exe
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\bin\Debug\Lab_9_Arzhanova.pdb
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova_MarkupCompile.cache
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova_MarkupCompile.lref
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.g.resources
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.exe
+C:\Users\DELL\Documents\GitHub\Rep_KNIT_44_43\Arzhanova\Lab_9_Arzhanova\Lab_9_Arzhanova\obj\Debug\Lab_9_Arzhanova.pdb
