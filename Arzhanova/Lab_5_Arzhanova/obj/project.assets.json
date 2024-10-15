@@ -440,11 +440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Lab_5_Arzhanova\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_5_Arzhanova\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Lab_5_Arzhanova\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_5_Arzhanova\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Lab_5_Arzhanova\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\Lab_5_Arzhanova\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
