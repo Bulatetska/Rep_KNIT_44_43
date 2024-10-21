@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe.config
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\bin\Debug\GreetingApp.exe
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\bin\Debug\GreetingApp.pdb
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\MainWindow.baml
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\App.g.cs
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp_MarkupCompile.cache
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.g.resources
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.Properties.Resources.resources
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.exe
+C:\Users\DELL\source\repos\GreetingApp\GreetingApp\obj\Debug\GreetingApp.pdb
