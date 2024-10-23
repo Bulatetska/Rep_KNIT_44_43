@@ -1,0 +1,7 @@
+D:\code\vnu\2024\dotnet\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\code\vnu\2024\dotnet\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\code\vnu\2024\dotnet\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\code\vnu\2024\dotnet\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\code\vnu\2024\dotnet\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\code\vnu\2024\dotnet\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\code\vnu\2024\dotnet\Lab6\Lab6\obj\Debug\Lab6.pdb

@@ -1,0 +1,7 @@
+D:\code\vnu\2024\dotnet\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\code\vnu\2024\dotnet\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\code\vnu\2024\dotnet\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\code\vnu\2024\dotnet\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\code\vnu\2024\dotnet\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\code\vnu\2024\dotnet\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\code\vnu\2024\dotnet\Lab4\Lab4\obj\Debug\Lab4.pdb
