@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217BE21C-D865-4753-91EC-5D1D2DDA66D3}|HelloApp\\HelloApp.csproj|c:\\users\\dell\\documents\\github\\rep_knit_44_43\\arzhanova\\helloapp\\helloapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217BE21C-D865-4753-91EC-5D1D2DDA66D3}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217BE21C-D865-4753-91EC-5D1D2DDA66D3}|HelloApp\\HelloApp.csproj|c:\\users\\dell\\documents\\github\\rep_knit_44_43\\arzhanova\\helloapp\\helloapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{217BE21C-D865-4753-91EC-5D1D2DDA66D3}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217BE21C-D865-4753-91EC-5D1D2DDA66D3}|HelloApp\\HelloApp.csproj|c:\\users\\dell\\documents\\github\\rep_knit_44_43\\arzhanova\\helloapp\\helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{217BE21C-D865-4753-91EC-5D1D2DDA66D3}|HelloApp\\HelloApp.csproj|solutionrelative:helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloApp.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp\\HelloApp.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp\\HelloApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T10:55:40.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\HelloApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HelloApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\HelloApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "HelloApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:53:23.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\HelloApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HelloApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\HelloApp\\HelloApp\\MainPage.xaml",
+              "RelativeToolTip": "HelloApp\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T10:51:52.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
