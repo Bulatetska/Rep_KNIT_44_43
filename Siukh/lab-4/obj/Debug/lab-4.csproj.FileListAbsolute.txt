@@ -1,0 +1,7 @@
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\bin\Debug\lab-4.exe.config
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\bin\Debug\lab-4.exe
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\bin\Debug\lab-4.pdb
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\obj\Debug\lab-4.csproj.AssemblyReference.cache
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\obj\Debug\lab-4.csproj.CoreCompileInputs.cache
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\obj\Debug\lab-4.exe
+D:\Навчання\4K_1S\Net\git\Rep_KNIT_44_43\Siukh\lab-4\obj\Debug\lab-4.pdb

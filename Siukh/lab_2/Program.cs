@@ -27,9 +27,9 @@ namespace lab_2
                 }
             }
 
-            int index = Array.IndexOf(A, 6);
+            int index = Array.IndexOf(A, A.Max());
 
-            Console.WriteLine("Count of maximum number in array: " + count + "\nThe index of " + A.Max() + " is " + index);
+            Console.WriteLine("Count of maximum number in array: " + count + "\nThe first index of " + A.Max() + " is " + index);
 
             // task 2:
             Console.WriteLine("\nTask 2: ");
