@@ -1,0 +1,15 @@
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\bin\Debug\net8.0\Lab7.exe
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\bin\Debug\net8.0\Lab7.deps.json
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\bin\Debug\net8.0\Lab7.runtimeconfig.json
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\bin\Debug\net8.0\Lab7.dll
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\bin\Debug\net8.0\Lab7.pdb
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.AssemblyInfo.cs
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.sourcelink.json
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.dll
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\refint\Lab7.dll
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.pdb
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\Lab7.genruntimeconfig.cache
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\Lab7\Lab7\obj\Debug\net8.0\ref\Lab7.dll
