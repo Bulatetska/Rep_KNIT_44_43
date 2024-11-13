@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\bin\Debug\net6.0\Lab7.exe
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\bin\Debug\net6.0\Lab7.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\bin\Debug\net6.0\Lab7.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\bin\Debug\net6.0\Lab7.dll
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\bin\Debug\net6.0\Lab7.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.dll
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\refint\Lab7.dll
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\Lab7.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab7\Lab7\obj\Debug\net6.0\ref\Lab7.dll
