@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lab10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Привітання" Height="200" Width="400">
+    <Grid>
+        <!-- Інструкція для користувача -->
+        <TextBlock Text="Введіть своє ім'я" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" FontSize="16"/>
+
+        <!-- Текстове поле для введення імені -->
+        <TextBox Name="NameTextBox" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Margin="0,62,0,0"/>
+
+        <!-- Кнопка для підтвердження -->
+        <Button Content="Підтвердити" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Margin="0,107,0,0" Click="OnButtonClick"/>
+
+        <!-- Повідомлення після натискання кнопки -->
+        <TextBlock Text="{Binding GreetingMessage}" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10" FontSize="16" />
+    </Grid>
+</Window>

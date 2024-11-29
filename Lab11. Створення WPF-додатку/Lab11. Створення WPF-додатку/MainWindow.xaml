@@ -1,0 +1,61 @@
+﻿<Window x:Class="Lab11.Створення_WPF_додатку.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Book Manager" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Список книг -->
+        <ListBox ItemsSource="{Binding Books}" 
+                 SelectedItem="{Binding SelectedBook, Mode=TwoWay}" 
+                 DisplayMemberPath="Title" />
+
+        <!-- Поля для вводу даних -->
+        <StackPanel Grid.Column="1" Margin="10">
+            <TextBlock Text="Назва нової книги:" Margin="0,0,0,5" />
+            <Grid>
+                <TextBox Text="{Binding NewTitle, UpdateSourceTrigger=PropertyChanged}" />
+                <TextBlock Text="Назва книги" 
+                           IsHitTestVisible="False"
+                           Foreground="Gray"
+                           Margin="5,0,0,0"
+                           VerticalAlignment="Center"
+                           Visibility="{Binding NewTitle, Converter={StaticResource StringNullOrEmptyToVisibilityConverter}}" />
+            </Grid>
+
+            <TextBlock Text="Автор:" Margin="10,10,0,5" />
+            <Grid>
+                <TextBox Text="{Binding NewAuthor, UpdateSourceTrigger=PropertyChanged}" />
+                <TextBlock Text="Автор" 
+                           IsHitTestVisible="False"
+                           Foreground="Gray"
+                           Margin="5,0,0,0"
+                           VerticalAlignment="Center"
+                           Visibility="{Binding NewAuthor, Converter={StaticResource StringNullOrEmptyToVisibilityConverter}}" />
+            </Grid>
+
+            <TextBlock Text="Рік видання:" Margin="10,10,0,5" />
+            <Grid>
+                <TextBox Text="{Binding NewYear, UpdateSourceTrigger=PropertyChanged}" />
+                <TextBlock Text="Рік" 
+                           IsHitTestVisible="False"
+                           Foreground="Gray"
+                           Margin="5,0,0,0"
+                           VerticalAlignment="Center"
+                           Visibility="{Binding NewYear, Converter={StaticResource StringNullOrEmptyToVisibilityConverter}}" />
+            </Grid>
+
+            <!-- Кнопки -->
+            <StackPanel Orientation="Horizontal" Margin="10,20,0,0">
+                <Button Content="Додати книгу" Command="{Binding AddBookCommand}" Margin="0,0,10,0" />
+                <Button Content="Видалити книгу" Command="{Binding RemoveBookCommand}" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

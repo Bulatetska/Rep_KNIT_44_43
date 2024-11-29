@@ -1,0 +1,18 @@
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11. Створення WPF-додатку.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11. Створення WPF-додатку.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\MainWindow.baml
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\MainWindow.g.cs
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\App.g.cs
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11.Створення_WPF_додатку_MarkupCompile.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11.Створення_WPF_додатку.g.resources
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11.Створення_WPF_додатку.Properties.Resources.resources
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11. Створення WPF-додатку.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11. Створення WPF-додатку.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\bin\Debug\Lab11.Створення_WPF_додатку.exe.config
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\bin\Debug\Lab11.Створення_WPF_додатку.exe
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\bin\Debug\Lab11.Створення_WPF_додатку.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11.Створення_WPF_додатку.exe
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11.Створення_WPF_додатку.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\Lab11.Створення_WPF_додатку_MarkupCompile.lref
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab11. Створення WPF-додатку\Lab11. Створення WPF-додатку\obj\Debug\App.baml

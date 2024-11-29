@@ -1,0 +1,31 @@
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\Lab13. web app ASP.NET Core MVC.staticwebassets.runtime.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\Lab13. web app ASP.NET Core MVC.exe
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\Lab13. web app ASP.NET Core MVC.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\Lab13. web app ASP.NET Core MVC.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\Lab13. web app ASP.NET Core MVC.dll
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\bin\Debug\net6.0\Lab13. web app ASP.NET Core MVC.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.RazorAssemblyInfo.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.RazorAssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.Lab13. web app ASP.NET Core MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab13. web app ASP.NET Core MVC.props
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab13. web app ASP.NET Core MVC.props
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab13. web app ASP.NET Core MVC.props
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\bundle\Lab13. web app ASP.NET Core MVC.styles.css
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\scopedcss\projectbundle\Lab13. web app ASP.NET Core MVC.bundle.scp.css
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.dll
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\refint\Lab13. web app ASP.NET Core MVC.dll
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\Lab13. web app ASP.NET Core MVC.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\4 курс 1 семестр\.NET\Lab13. web app ASP.NET Core MVC\Lab13. web app ASP.NET Core MVC\obj\Debug\net6.0\ref\Lab13. web app ASP.NET Core MVC.dll
