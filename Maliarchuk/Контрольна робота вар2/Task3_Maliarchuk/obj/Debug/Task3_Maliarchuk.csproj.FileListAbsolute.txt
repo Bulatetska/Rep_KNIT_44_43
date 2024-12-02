@@ -1,0 +1,15 @@
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\bin\Debug\Task3_Maliarchuk.exe.config
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\bin\Debug\Task3_Maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\bin\Debug\Task3_Maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.csproj.AssemblyReference.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\MainWindow.g.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\App.g.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk_MarkupCompile.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk_MarkupCompile.lref
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\MainWindow.baml
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.g.resources
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.Properties.Resources.resources
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.csproj.GenerateResource.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.csproj.CoreCompileInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task3_Maliarchuk\obj\Debug\Task3_Maliarchuk.pdb

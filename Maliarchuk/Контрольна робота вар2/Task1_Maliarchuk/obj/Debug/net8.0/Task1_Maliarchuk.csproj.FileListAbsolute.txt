@@ -1,0 +1,14 @@
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\bin\Debug\net8.0\Task1_Maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\bin\Debug\net8.0\Task1_Maliarchuk.deps.json
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\bin\Debug\net8.0\Task1_Maliarchuk.runtimeconfig.json
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\bin\Debug\net8.0\Task1_Maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\bin\Debug\net8.0\Task1_Maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.AssemblyInfoInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.AssemblyInfo.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.csproj.CoreCompileInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\refint\Task1_Maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\Task1_Maliarchuk.genruntimeconfig.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\контрольна робота\Task1_Maliarchuk\obj\Debug\net8.0\ref\Task1_Maliarchuk.dll
