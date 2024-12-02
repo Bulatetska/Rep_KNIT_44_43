@@ -1,0 +1,15 @@
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\bin\Debug\net8.0\lab3_2_maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\bin\Debug\net8.0\lab3_2_maliarchuk.deps.json
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\bin\Debug\net8.0\lab3_2_maliarchuk.runtimeconfig.json
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\bin\Debug\net8.0\lab3_2_maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\bin\Debug\net8.0\lab3_2_maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.AssemblyInfoInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.AssemblyInfo.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.csproj.CoreCompileInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.sourcelink.json
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\refint\lab3_2_maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\lab3_2_maliarchuk.genruntimeconfig.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\Rep_KNIT_24_23\Maliarchuk\lab 3\lab3_2_maliarchuk\obj\Debug\net8.0\ref\lab3_2_maliarchuk.dll
