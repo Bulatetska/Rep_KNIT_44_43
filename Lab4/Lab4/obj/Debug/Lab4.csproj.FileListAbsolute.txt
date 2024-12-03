@@ -1,0 +1,7 @@
+C:\Users\dsgam\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\dsgam\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\dsgam\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\dsgam\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\dsgam\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dsgam\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\dsgam\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
