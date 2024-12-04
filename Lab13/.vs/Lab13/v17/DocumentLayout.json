@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|d:\\code\\vnu\\2024\\dotnet\\lab13\\lab13\\lab13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F267A324-DA2D-452E-A16B-AA5CC2CEB6A6}|Lab13\\Lab13.csproj|solutionrelative:lab13\\lab13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Lab13\\App.xaml.cs",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\App.xaml.cs",
+              "RelativeToolTip": "Lab13\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:10:26.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Lab13\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Lab13\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:08:53.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Lab13\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "Lab13\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:08:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Lab13\\Models\\Book.cs",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\Models\\Book.cs",
+              "RelativeToolTip": "Lab13\\Models\\Book.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:07:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab13.csproj",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\Lab13.csproj",
+              "RelativeDocumentMoniker": "Lab13\\Lab13.csproj",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\Lab13.csproj",
+              "RelativeToolTip": "Lab13\\Lab13.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T16:04:24.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab13\\MainWindow.xaml",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\MainWindow.xaml",
+              "RelativeToolTip": "Lab13\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T16:04:14.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab13\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\code\\vnu\\2024\\dotnet\\Lab13\\Lab13\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab13\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:04:14.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

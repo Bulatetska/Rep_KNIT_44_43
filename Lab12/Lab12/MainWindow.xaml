@@ -1,0 +1,34 @@
+﻿<Window x:Class="Lab12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBox Name="DisplayTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="50" FontSize="24" IsReadOnly="True" Margin="10"/>
+
+        <UniformGrid Grid.Row="1" Rows="4" Columns="4" Margin="10">
+            <Button Content="1" Click="NumberButton_Click"/>
+            <Button Content="2" Click="NumberButton_Click"/>
+            <Button Content="3" Click="NumberButton_Click"/>
+            <Button Content="+" Click="OperationButton_Click"/>
+
+            <Button Content="4" Click="NumberButton_Click"/>
+            <Button Content="5" Click="NumberButton_Click"/>
+            <Button Content="6" Click="NumberButton_Click"/>
+            <Button Content="-" Click="OperationButton_Click"/>
+
+            <Button Content="7" Click="NumberButton_Click"/>
+            <Button Content="8" Click="NumberButton_Click"/>
+            <Button Content="9" Click="NumberButton_Click"/>
+            <Button Content="*" Click="OperationButton_Click"/>
+
+            <Button Content="0" Click="NumberButton_Click"/>
+            <Button Content="C" Click="ClearButton_Click"/>
+            <Button Content="/" Click="OperationButton_Click"/>
+            <Button Content="=" Click="CalculateButton_Click"/>
+        </UniformGrid>
+    </Grid>
+</Window>
