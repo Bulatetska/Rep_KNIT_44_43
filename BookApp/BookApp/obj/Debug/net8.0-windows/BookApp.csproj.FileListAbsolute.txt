@@ -1,0 +1,2 @@
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\BookApp\BookApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\BookApp\BookApp\obj\Debug\net8.0-windows\BookApp_MarkupCompile.cache

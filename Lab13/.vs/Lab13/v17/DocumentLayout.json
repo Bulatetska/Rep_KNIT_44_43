@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\lab13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\lab13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab13\\lab13\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C2497B-A96F-4639-9C3B-68901CA7BE4A}|Lab13\\Lab13.csproj|solutionrelative:lab13\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Lab13\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\BookViewModel.cs",
+              "RelativeToolTip": "Lab13\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:47:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\Book.cs",
+              "RelativeDocumentMoniker": "Lab13\\Book.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\Book.cs",
+              "RelativeToolTip": "Lab13\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:48:08.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Lab13\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\RelayCommand.cs",
+              "RelativeToolTip": "Lab13\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:45:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab13.csproj",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\Lab13.csproj",
+              "RelativeDocumentMoniker": "Lab13\\Lab13.csproj",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\Lab13.csproj*",
+              "RelativeToolTip": "Lab13\\Lab13.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T16:20:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Lab13\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\Models\\Book.cs",
+              "RelativeToolTip": "Lab13\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:18:21.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab13\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\MainWindow.xaml*",
+              "RelativeToolTip": "Lab13\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T15:52:42.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab13\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Lab13\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:52:39.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Lab13\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "Lab13\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:22:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Lab13\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab13\\Lab13\\AssemblyInfo.cs",
+              "RelativeToolTip": "Lab13\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:51:42.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

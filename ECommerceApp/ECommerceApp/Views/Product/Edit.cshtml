@@ -1,0 +1,9 @@
+﻿@model string
+
+<h1>Редагування продукту</h1>
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="id" value="@ViewData["Id"]" />
+    <label>Назва продукту:</label>
+    <input type="text" name="updatedName" value="@Model" />
+    <button type="submit">Save</button>
+</form>

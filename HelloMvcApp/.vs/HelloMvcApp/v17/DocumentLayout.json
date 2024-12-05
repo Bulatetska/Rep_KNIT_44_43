@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45BE1A0-59AA-4287-A892-89DF43A1A605}|HelloMvcApp\\HelloMvcApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\hellomvcapp\\hellomvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45BE1A0-59AA-4287-A892-89DF43A1A605}|HelloMvcApp\\HelloMvcApp.csproj|solutionrelative:hellomvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45BE1A0-59AA-4287-A892-89DF43A1A605}|HelloMvcApp\\HelloMvcApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\hellomvcapp\\hellomvcapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D45BE1A0-59AA-4287-A892-89DF43A1A605}|HelloMvcApp\\HelloMvcApp.csproj|solutionrelative:hellomvcapp\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45BE1A0-59AA-4287-A892-89DF43A1A605}|HelloMvcApp\\HelloMvcApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\hellomvcapp\\hellomvcapp\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45BE1A0-59AA-4287-A892-89DF43A1A605}|HelloMvcApp\\HelloMvcApp.csproj|solutionrelative:hellomvcapp\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\HelloMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "HelloMvcApp\\Program.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\HelloMvcApp\\Program.cs",
+              "RelativeToolTip": "HelloMvcApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:09:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\HelloMvcApp\\Views\\Index.cshtml",
+              "RelativeDocumentMoniker": "HelloMvcApp\\Views\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\HelloMvcApp\\Views\\Index.cshtml",
+              "RelativeToolTip": "HelloMvcApp\\Views\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T14:08:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\HelloMvcApp\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "HelloMvcApp\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\HelloMvcApp\\HelloMvcApp\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "HelloMvcApp\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:06:10.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

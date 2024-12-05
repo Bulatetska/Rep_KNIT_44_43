@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:WpfApp"
+        Title="Менеджер книг" Height="500" Width="600">
+
+    <Window.DataContext>
+        <vm:BookViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <!-- Список книг -->
+        <ListBox ItemsSource="{Binding Books}" SelectedItem="{Binding SelectedBook}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Height="200" Margin="10" />
+
+        <!-- Контейнер для полів і підписів -->
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Left" Margin="10,220,10,10">
+
+            <!-- Назва книги -->
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Назва книги:" Width="100" VerticalAlignment="Center" />
+                <TextBox x:Name="TitleTextBox" Width="200" Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+
+            <!-- Автор -->
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Автор:" Width="100" VerticalAlignment="Center" />
+                <TextBox x:Name="AuthorTextBox" Width="200" Text="{Binding Author, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+
+            <!-- Рік видання -->
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Label Content="Рік видання:" Width="100" VerticalAlignment="Center" />
+                <TextBox x:Name="YearTextBox" Width="200" Text="{Binding Year, UpdateSourceTrigger=PropertyChanged}" />
+            </StackPanel>
+
+            <!-- Кнопки -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                <Button Content="Додати книгу" Command="{Binding AddBookCommand}" Width="200" Height="30" Margin="0,0,0,10"/>
+                <Button Content="Видалити книгу" Command="{Binding RemoveBookCommand}" Width="200" Height="30" Margin="0,0,0,10"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

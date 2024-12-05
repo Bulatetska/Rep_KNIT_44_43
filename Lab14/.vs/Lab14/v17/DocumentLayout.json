@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab14\\lab14\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|solutionrelative:lab14\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab14\\lab14\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|solutionrelative:lab14\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab14\\lab14\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|solutionrelative:lab14\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\lab14\\lab14\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA33D53-DF30-4EAC-A63B-5BF095293680}|Lab14\\Lab14.csproj|solutionrelative:lab14\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\Book.cs",
+              "RelativeDocumentMoniker": "Lab14\\Book.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\Book.cs",
+              "RelativeToolTip": "Lab14\\Book.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:31:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab14\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab14\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:23:18.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Lab14\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\BookViewModel.cs",
+              "RelativeToolTip": "Lab14\\BookViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:35:00.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ae8a3cca-33bc-44e7-8dff-af0fe1ca679c",
+        "Display": 0,
+        "X": 320,
+        "Y": 80,
+        "Width": 660,
+        "Height": 685,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab14\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\Lab14\\Lab14\\MainWindow.xaml",
+              "RelativeToolTip": "Lab14\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T15:23:33.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

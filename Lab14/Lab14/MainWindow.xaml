@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfBookApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Book Manager" Height="350" Width="500">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <!-- Список книг -->
+        <ListBox ItemsSource="{Binding Books}"
+         SelectedItem="{Binding SelectedBook}"
+         DisplayMemberPath="Title"
+         Grid.Row="0" Grid.Column="0" Margin="5" />
+
+        <!-- Поля для редагування -->
+        <StackPanel Grid.Row="0" Grid.Column="1" Margin="10">
+            <TextBlock Text="Title" />
+            <TextBox Text="{Binding SelectedBook.Title, UpdateSourceTrigger=PropertyChanged}" />
+
+            <TextBlock Text="Author" Margin="0,10,0,0" />
+            <TextBox Text="{Binding SelectedBook.Author, UpdateSourceTrigger=PropertyChanged}" />
+
+            <TextBlock Text="Year" Margin="0,10,0,0" />
+            <TextBox Text="{Binding SelectedBook.Year, UpdateSourceTrigger=PropertyChanged}" />
+        </StackPanel>
+
+        <!-- Кнопки -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="5">
+            <Button Content="Add Book" Command="{Binding AddBookCommand}" Width="100" Margin="5" />
+            <Button Content="Remove Book" Command="{Binding RemoveBookCommand}" Width="100" Margin="5" />
+        </StackPanel>
+    </Grid>
+</Window>

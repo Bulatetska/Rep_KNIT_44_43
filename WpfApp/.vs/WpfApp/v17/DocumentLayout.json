@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\wpfapp\\wpfapp\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\wpfapp\\wpfapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\wpfapp\\wpfapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\wpfapp\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\wpfapp\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|c:\\users\\omeli\\desktop\\4 \u043A\u0443\u0440\u0441 \u0456 \u0441\u0435\u043C\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_44_43\\wpfapp\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906B7537-AC0A-4AF6-A1CB-461A77AFB1C2}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfApp\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\RelayCommand.cs",
+              "RelativeToolTip": "WpfApp\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:56:40.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\BookViewModel.cs",
+              "RelativeToolTip": "WpfApp\\BookViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:55:44.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WpfApp.csproj",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\WpfApp.csproj",
+              "RelativeDocumentMoniker": "WpfApp\\WpfApp.csproj",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\WpfApp.csproj",
+              "RelativeToolTip": "WpfApp\\WpfApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T17:55:15.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\Book.cs",
+              "RelativeDocumentMoniker": "WpfApp\\Book.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\Book.cs",
+              "RelativeToolTip": "WpfApp\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:54:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T15:04:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\omeli\\Desktop\\4 \u043A\u0443\u0440\u0441 \u0406 \u0441\u0435\u043C\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_44_43\\WpfApp\\WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:04:37.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

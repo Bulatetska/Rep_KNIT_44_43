@@ -1,0 +1,15 @@
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\bin\Debug\net8.0\MK2.exe
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\bin\Debug\net8.0\MK2.deps.json
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\bin\Debug\net8.0\MK2.runtimeconfig.json
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\bin\Debug\net8.0\MK2.dll
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\bin\Debug\net8.0\MK2.pdb
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.AssemblyInfoInputs.cache
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.AssemblyInfo.cs
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.csproj.CoreCompileInputs.cache
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.sourcelink.json
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.dll
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\refint\MK2.dll
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.pdb
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\MK2.genruntimeconfig.cache
+C:\Users\omeli\Desktop\4 курс І сем\Технології .NET\Rep_KNIT_44_43\MK2\MK2\obj\Debug\net8.0\ref\MK2.dll

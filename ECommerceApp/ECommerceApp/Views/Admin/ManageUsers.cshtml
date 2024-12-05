@@ -1,0 +1,12 @@
+﻿@model List<string>
+
+<h1>Manage Users</h1>
+
+<ul>
+    @foreach (var user in Model)
+    {
+        <li>@user</li>
+    }
+</ul>
+<a asp-controller="Home" asp-action="Index">Back to Home</a>
+

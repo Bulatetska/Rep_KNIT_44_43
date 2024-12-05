@@ -1,0 +1,9 @@
+﻿@model string
+
+<h1>Видалити продукт</h1>
+<p>Ви впевнені, що хочете видалити @Model?</p>
+<form asp-action="ConfirmDelete" method="post">
+    <input type="hidden" name="id" value="@ViewData["Id"]" />
+    <button type="submit">Yes</button>
+    <a asp-action="List">No</a>
+</form>

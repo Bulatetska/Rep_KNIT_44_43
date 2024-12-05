@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\**" />
+    <Compile Remove="ViewModels\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="ViewModels\**" />
+    <None Remove="Models\**" />
+    <None Remove="ViewModels\**" />
+    <Page Remove="Models\**" />
+    <Page Remove="ViewModels\**" />
+  </ItemGroup>
+
+</Project>
