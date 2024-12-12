@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|c:\\users\\dell\\downloads\\razordemoapp\\razordemoapp\\views\\demo\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|solutionrelative:razordemoapp\\views\\demo\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|c:\\users\\dell\\downloads\\razordemoapp\\razordemoapp\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|solutionrelative:razordemoapp\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|c:\\users\\dell\\downloads\\razordemoapp\\razordemoapp\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|solutionrelative:razordemoapp\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|c:\\users\\dell\\downloads\\razordemoapp\\razordemoapp\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6371E3E5-53E4-42BD-968C-F8C371842C31}|RazorDemoApp\\RazorDemoApp.csproj|solutionrelative:razordemoapp\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "RazorDemoApp\\Views\\Shared\\_PartialView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeToolTip": "RazorDemoApp\\Views\\Shared\\_PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T07:42:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Views\\Demo\\List.cshtml",
+              "RelativeDocumentMoniker": "RazorDemoApp\\Views\\Demo\\List.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Views\\Demo\\List.cshtml",
+              "RelativeToolTip": "RazorDemoApp\\Views\\Demo\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T07:41:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorDemoApp\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "RazorDemoApp\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T07:40:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "RazorDemoApp\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\RazorDemoApp\\RazorDemoApp\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "RazorDemoApp\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:38:23.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
