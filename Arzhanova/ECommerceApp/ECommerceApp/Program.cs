@@ -18,12 +18,13 @@ builder.Services.AddControllersWithViews();  // Якщо ви використовуєте MVC, інак
 
 var app = builder.Build();
 
-// Створення користувачів при першому запуску
+// Створення користувачів та ролей при першому запуску
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     var userManager = services.GetRequiredService<UserManager<IdentityUser>>();
-    await SeedData.Initialize(services, userManager);  // Ініціалізація даних користувачів
+    var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>(); // Додаємо RoleManager
+    await SeedData.Initialize(services, userManager, roleManager);  // Ініціалізація даних користувачів і ролей
 }
 
 // Налаштування конвеєра запитів
@@ -44,8 +45,5 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
-// Виклик MapControllers, якщо це API
-// app.MapControllers();  // Uncomment, якщо використовуєте тільки API
 
 app.Run();

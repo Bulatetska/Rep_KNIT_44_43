@@ -8,8 +8,9 @@ public class ProductController : Controller
     [Authorize]
     public IActionResult List()
     {
-        return View(Products);
+        return View(Products);  // Передаємо список продуктів в представлення
     }
+
 
     // Редагувати продукти можуть тільки користувачі з роллю Admin
     [Authorize(Roles = "Admin")]

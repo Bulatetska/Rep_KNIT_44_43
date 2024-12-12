@@ -5692,11 +5692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Downloads\\ECommerceApp\\ECommerceApp\\ECommerceApp.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\ECommerceApp\\ECommerceApp\\ECommerceApp.csproj",
       "projectName": "ECommerceApp",
-      "projectPath": "C:\\Users\\DELL\\Downloads\\ECommerceApp\\ECommerceApp\\ECommerceApp.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\ECommerceApp\\ECommerceApp\\ECommerceApp.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Downloads\\ECommerceApp\\ECommerceApp\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\Rep_KNIT_44_43\\Arzhanova\\ECommerceApp\\ECommerceApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

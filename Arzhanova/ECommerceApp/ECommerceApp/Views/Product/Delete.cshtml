@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Підтвердити видалення";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Ви впевнені, що хочете видалити продукт: <strong>@ViewBag.Product</strong>?</p>
+
+<form method="post">
+    <button type="submit" class="btn btn-danger">Так, видалити</button>
+    <a href="@Url.Action("List", "Product")" class="btn btn-secondary">Скасувати</a>
+</form>

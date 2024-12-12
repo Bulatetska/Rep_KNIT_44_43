@@ -1,0 +1,21 @@
+﻿@model List<string>  
+
+<h2>Список продуктів</h2>
+
+@if (Model != null && Model.Any())  
+{
+    <ul>
+        @foreach (var product in Model)  
+        {
+            <li>
+                @product  <!-- Виведення назви продукту -->
+                <a href="@Url.Action("Edit", "Product", new { id = Model.IndexOf(product) })">Редагувати</a>  <!-- Перехід до сторінки редагування -->
+                <a href="@Url.Action("Delete", "Product", new { id = Model.IndexOf(product) })">Видалити</a>  <!-- Перехід до сторінки видалення -->
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Продукти не знайдені.</p>  <!-- Повідомлення, якщо список порожній -->
+}
