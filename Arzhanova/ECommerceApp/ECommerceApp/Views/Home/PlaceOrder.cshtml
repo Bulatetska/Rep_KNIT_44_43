@@ -1,0 +1,9 @@
+﻿<h2>Розміщення замовлення</h2>
+<form method="post" action="@Url.Action("PlaceOrder", "Order")">
+    <label>Продукт:</label>
+    <input type="text" name="product" />
+    <label>Кількість:</label>
+    <input type="number" name="quantity" />
+    <button type="submit">Замовити</button>
+</form>
+<p>@ViewBag.Message</p>

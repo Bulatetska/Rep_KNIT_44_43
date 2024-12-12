@@ -1,0 +1,5 @@
+﻿<h2>Видалення продукту</h2>
+<p>Ви дійсно бажаєте видалити продукт "@ViewBag.Product"?</p>
+<form method="post" action="@Url.Action("ConfirmDelete", "Product", new { id = ViewBag.Id })">
+    <button type="submit">Підтвердити</button>
+</form>

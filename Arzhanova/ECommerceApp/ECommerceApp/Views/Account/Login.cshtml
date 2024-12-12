@@ -1,0 +1,13 @@
+﻿<h2>Вхід</h2>
+<form method="post" action="@Url.Action("Login", "Account")">
+    <label>Логін:</label>
+    <input type="text" name="username" required />
+    <label>Пароль:</label>
+    <input type="password" name="password" required />
+    <button type="submit">Увійти</button>
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color: red;">@ViewBag.Error</p>
+}
