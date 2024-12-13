@@ -1,0 +1,14 @@
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.AssemblyInfoInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.AssemblyInfo.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.csproj.CoreCompileInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\bin\Debug\net8.0\lab8_maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\bin\Debug\net8.0\lab8_maliarchuk.deps.json
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\bin\Debug\net8.0\lab8_maliarchuk.runtimeconfig.json
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\bin\Debug\net8.0\lab8_maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\bin\Debug\net8.0\lab8_maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\refint\lab8_maliarchuk.dll
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\lab8_maliarchuk.genruntimeconfig.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 8\lab8_maliarchuk\obj\Debug\net8.0\ref\lab8_maliarchuk.dll
