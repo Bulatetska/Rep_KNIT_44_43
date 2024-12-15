@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\lab13_maliarchuk.props" />
+</Project>
