@@ -1,0 +1,34 @@
+﻿<Window x:Class="lab10_maliarchuk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab10_maliarchuk"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="334" Width="483">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Введіть своє ім'я:" FontSize="16" Margin="176,5,65,5"  />
+
+        <TextBox Name="NameInput" FontSize="16" Margin="65,33,65,8" Grid.RowSpan="2" />
+
+        <Button Grid.Row="3" Content="Підтвердити" FontSize="16" Click="OnConfirmClick" Margin="53,10,53,209" />
+
+        <TextBlock Grid.Row="3" Name="GreetingMessage" FontSize="16" TextWrapping="Wrap" Foreground="Blue" Margin="93,73,93,0" RenderTransformOrigin="0.5,0.5" >
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+    </Grid>
+</Window>

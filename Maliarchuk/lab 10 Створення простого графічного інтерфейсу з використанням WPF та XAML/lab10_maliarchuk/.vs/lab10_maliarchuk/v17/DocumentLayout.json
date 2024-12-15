@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 10\\lab10_maliarchuk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2685D2-F803-4EFE-8C48-9B03FF3BB89E}|lab10_maliarchuk.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .net\\rep_knit_24_23\\maliarchuk\\lab 10\\lab10_maliarchuk\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2685D2-F803-4EFE-8C48-9B03FF3BB89E}|lab10_maliarchuk.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2685D2-F803-4EFE-8C48-9B03FF3BB89E}|lab10_maliarchuk.csproj|D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 10\\lab10_maliarchuk\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EA2685D2-F803-4EFE-8C48-9B03FF3BB89E}|lab10_maliarchuk.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 10\\lab10_maliarchuk\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 10\\lab10_maliarchuk\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T03:19:41.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 10\\lab10_maliarchuk\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\\4 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 .NET\\Rep_KNIT_24_23\\Maliarchuk\\lab 10\\lab10_maliarchuk\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:19:40.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

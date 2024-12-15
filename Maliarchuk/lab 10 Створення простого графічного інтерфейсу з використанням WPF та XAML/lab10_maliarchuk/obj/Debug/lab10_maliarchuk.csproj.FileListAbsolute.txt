@@ -1,0 +1,15 @@
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\bin\Debug\lab10_maliarchuk.exe.config
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\bin\Debug\lab10_maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\bin\Debug\lab10_maliarchuk.pdb
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.csproj.AssemblyReference.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\MainWindow.g.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\App.g.cs
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk_MarkupCompile.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk_MarkupCompile.lref
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\MainWindow.baml
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.g.resources
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.Properties.Resources.resources
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.csproj.GenerateResource.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.csproj.CoreCompileInputs.cache
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.exe
+D:\Університет\4 курс 1 семестр\Технології .NET\lab 10\lab10_maliarchuk\obj\Debug\lab10_maliarchuk.pdb
