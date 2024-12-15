@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Index Page";
+}
+
+<h1>@ViewData["Message"]</h1>
+
+<h2>Список чисел від 1 до 5</h2>
+<ul>
+    @for (var i = 1; i <= 5; i++)
+    {
+        <li>Число: @i</li>
+    }
+</ul>
+
+@model List<string>
+
+<h2>Список країн</h2>
+<ul>
+    @foreach (var country in Model)
+    {
+        <li>@country</li>
+    }
+</ul>
+
+@await Html.PartialAsync("_PartialView")
