@@ -1,0 +1,28 @@
+﻿@page
+@model List<User>
+
+<h1>Управління користувачами</h1>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ім'я</th>
+            <th>Email</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>
+                    <a href="/User/Edit/@user.Id">Редагувати</a> |
+                    <a href="/User/Delete/@user.Id">Видалити</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

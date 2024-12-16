@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>@ViewData["Title"] - MySite</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+    <header>
+        <h1>MySite</h1>
+        <nav>
+            <a href="/Home/Index">Головна</a> |
+            <a href="/Product/List">Продукти</a> |
+            <a href="/User/List">Користувачі</a>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>© 2024 MySite</p>
+    </footer>
+</body>
+</html>

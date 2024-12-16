@@ -1,0 +1,11 @@
+﻿@page
+@model User
+
+<h1>Створення нового користувача</h1>
+<form asp-action="Create" method="post">
+    <label>Ім'я:</label>
+    <input type="text" asp-for="Name" /><br />
+    <label>Email:</label>
+    <input type="email" asp-for="Email" /><br />
+    <button type="submit">Створити</button>
+</form>

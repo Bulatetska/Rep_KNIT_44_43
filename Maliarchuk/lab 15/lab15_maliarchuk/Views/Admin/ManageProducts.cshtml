@@ -1,0 +1,29 @@
+﻿@page
+@model List<Product>
+
+<h1>Управління продуктами</h1>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Назва</th>
+            <th>Ціна</th>
+            <th>Дії</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price.ToString("C")</td>
+                <td>
+                    <a href="/Product/Edit/@product.Id">Редагувати</a> |
+                    <a href="/Product/Delete/@product.Id">Видалити</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Product/Create">Додати новий продукт</a>

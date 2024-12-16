@@ -1,0 +1,10 @@
+﻿@page
+@model Product
+
+<h1>Підтвердження видалення</h1>
+<p>Ви впевнені, що хочете видалити продукт "<strong>@Model.Name</strong>"?</p>
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit">Так, видалити</button>
+    <a href="/Product/List">Скасувати</a>
+</form>

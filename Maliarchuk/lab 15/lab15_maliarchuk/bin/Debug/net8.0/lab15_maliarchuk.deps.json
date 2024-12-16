@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab15_maliarchuk/1.0.0": {
+        "runtime": {
+          "lab15_maliarchuk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab15_maliarchuk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
