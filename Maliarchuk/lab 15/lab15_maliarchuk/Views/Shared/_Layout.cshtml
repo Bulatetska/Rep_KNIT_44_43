@@ -9,9 +9,9 @@
     <header>
         <h1>MySite</h1>
         <nav>
-            <a href="/Home/Index">Головна</a> |
-            <a href="/Product/List">Продукти</a> |
-            <a href="/User/List">Користувачі</a>
+            <a href="@Url.Action("Index", "Home")">Головна</a> |
+            <a href="@Url.Action("List", "Product")">Продукти</a> |
+            <a href="@Url.Action("List", "User")">Користувачі</a>
         </nav>
     </header>
     <main>

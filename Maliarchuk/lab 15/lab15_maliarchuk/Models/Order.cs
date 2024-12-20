@@ -2,13 +2,11 @@
 {
     public class Order
     {
-        public int Id { get; set; } // Унікальний ідентифікатор замовлення
-        public string ProductName { get; set; } = string.Empty; // Назва продукту
-        public int Quantity { get; set; } // Кількість продукту
-        public DateTime OrderDate { get; set; } // Дата замовлення
-
-        // Додаткові властивості можна додати за потреби
-        public string CustomerName { get; set; } = string.Empty; // Ім'я клієнта
-        public string CustomerEmail { get; set; } = string.Empty; // Електронна пошта клієнта
+        public int Id { get; set; } 
+        public string ProductName { get; set; } = string.Empty; 
+        public int Quantity { get; set; } 
+        public DateTime OrderDate { get; set; } 
+        public string CustomerName { get; set; } = string.Empty; 
+        public string CustomerEmail { get; set; } = string.Empty; 
     }
 }

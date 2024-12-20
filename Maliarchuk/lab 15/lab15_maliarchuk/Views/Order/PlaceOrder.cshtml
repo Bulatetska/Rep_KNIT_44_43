@@ -1,22 +1,25 @@
-﻿@page
-@model lab15_maliarchuk.Models.Order
+﻿@model lab15_maliarchuk.Models.Order
 
-<h2>Place Order</h2>
+<h2>Розмістити замовлення</h2>
 
 <form asp-action="PlaceOrder" method="post">
-    <label for="ProductName">Product Name:</label>
-    <input type="text" name="ProductName" />
-
-    <label for="Quantity">Quantity:</label>
-    <input type="number" name="Quantity" />
-
-    <label for="CustomerName">Customer Name:</label>
-    <input type="text" name="CustomerName" />
-
-    <label for="CustomerEmail">Customer Email:</label>
-    <input type="email" name="CustomerEmail" />
-
-    <button type="submit">Submit</button>
+    <div>
+        <label asp-for="ProductName"></label>
+        <input asp-for="ProductName" />
+    </div>
+    <div>
+        <label asp-for="Quantity"></label>
+        <input asp-for="Quantity" />
+    </div>
+    <div>
+        <label asp-for="CustomerName"></label>
+        <input asp-for="CustomerName" />
+    </div>
+    <div>
+        <label asp-for="CustomerEmail"></label>
+        <input asp-for="CustomerEmail" type="email" />
+    </div>
+    <button type="submit">Надіслати</button>
 </form>
 
 @if (ViewData["Message"] != null)

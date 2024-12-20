@@ -1,0 +1,25 @@
+﻿@model List<lab15_maliarchuk.Models.User>
+
+<h1>Список користувачів</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ім'я</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/User/Create">Додати нового користувача</a>

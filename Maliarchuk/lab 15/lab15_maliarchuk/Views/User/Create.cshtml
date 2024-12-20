@@ -1,11 +1,22 @@
-﻿@page
-@model User
+﻿@{
+    ViewData["Title"] = "Create User";
+}
 
-<h1>Створення нового користувача</h1>
-<form asp-action="Create" method="post">
-    <label>Ім'я:</label>
-    <input type="text" asp-for="Name" /><br />
-    <label>Email:</label>
-    <input type="email" asp-for="Email" /><br />
-    <button type="submit">Створити</button>
+<h1>Додати нового користувача</h1>
+
+<form method="post" asp-action="Create">
+    <div>
+        <label>Ім'я:</label>
+        <input type="text" name="name" required />
+    </div>
+    <div>
+        <label>Email:</label>
+        <input type="email" name="email" required />
+    </div>
+    <button type="submit">Додати</button>
 </form>
+
+@if (ViewData["Message"] != null)
+{
+    <p style="color: red;">@ViewData["Message"]</p>
+}

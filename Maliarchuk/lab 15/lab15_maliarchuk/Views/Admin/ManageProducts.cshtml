@@ -1,5 +1,4 @@
-﻿@page
-@model List<Product>
+﻿@model List<lab15_maliarchuk.Models.Product>
 
 <h1>Управління продуктами</h1>
 <table>
@@ -26,4 +25,4 @@
         }
     </tbody>
 </table>
-<a href="/Product/Create">Додати новий продукт</a>
+<a asp-controller="Product" asp-action="Create">Додати новий продукт</a>

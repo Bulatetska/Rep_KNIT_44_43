@@ -1,9 +1,21 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using lab15_maliarchuk.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace lab15_maliarchuk.Controllers
 {
     public class UserController : Controller
     {
+        private static List<User> users = new List<User>
+        {
+            new User { Id = 1, Name = "John Doe", Email = "john.doe@example.com" },
+            new User { Id = 2, Name = "Jane Smith", Email = "jane.smith@example.com" }
+        };
+
+        public IActionResult List()
+        {
+            return View(users);
+        }
+
         public IActionResult Create()
         {
             return View();
@@ -18,14 +30,10 @@ namespace lab15_maliarchuk.Controllers
                 return View();
             }
 
-            ViewData["Message"] = "User created successfully!";
-            return RedirectToAction("Details", new { id = 1 }); // Імітація переходу до деталей
-        }
+            int newId = users.Count > 0 ? users.Max(u => u.Id) + 1 : 1;
+            users.Add(new User { Id = newId, Name = name, Email = email });
 
-        public IActionResult Details(int id)
-        {
-            var user = new { Id = id, Name = "John Doe", Email = "john.doe@example.com" };
-            return View(user);
+            return RedirectToAction("List");
         }
     }
 }

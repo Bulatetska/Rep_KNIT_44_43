@@ -1,5 +1,4 @@
-﻿@page
-@model List<User>
+﻿@model List<lab15_maliarchuk.Models.User>
 
 <h1>Управління користувачами</h1>
 <table>
@@ -19,8 +18,8 @@
                 <td>@user.Name</td>
                 <td>@user.Email</td>
                 <td>
-                    <a href="/User/Edit/@user.Id">Редагувати</a> |
-                    <a href="/User/Delete/@user.Id">Видалити</a>
+                    <a asp-controller="User" asp-action="Edit" asp-route-id="@user.Id">Редагувати</a> |
+                    <a asp-controller="User" asp-action="Delete" asp-route-id="@user.Id">Видалити</a>
                 </td>
             </tr>
         }

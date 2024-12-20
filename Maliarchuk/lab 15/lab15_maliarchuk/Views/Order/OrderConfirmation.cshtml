@@ -1,5 +1,5 @@
-﻿@page
-@model lab15_maliarchuk.Views.Order.OrderConfirmationModel
+﻿@model lab15_maliarchuk.Models.Order
+
 <h1>Замовлення підтверджено</h1>
 <p>Ваше замовлення було успішно розміщене!</p>
-<a href="/Order/List">Переглянути всі замовлення</a>
+<a asp-controller="Order" asp-action="List">Переглянути всі замовлення</a>

@@ -40,13 +40,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lab15_maliarchuk.2pbwe9yp04.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2pbwe9yp04"},{"Name":"integrity","Value":"sha256-NvXRg8F2HrEYI9g8fl1rrOSyx8NEZCp4u70To8raNM4="},{"Name":"label","Value":"_content/lab15_maliarchuk/lab15_maliarchuk.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NvXRg8F2HrEYI9g8fl1rrOSyx8NEZCp4u70To8raNM4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Dec 2024 13:33:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NvXRg8F2HrEYI9g8fl1rrOSyx8NEZCp4u70To8raNM4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Dec 2024 02:25:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/lab15_maliarchuk/lab15_maliarchuk.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lab15_maliarchuk.2pbwe9yp04.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NvXRg8F2HrEYI9g8fl1rrOSyx8NEZCp4u70To8raNM4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NvXRg8F2HrEYI9g8fl1rrOSyx8NEZCp4u70To8raNM4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 16 Dec 2024 13:33:38 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NvXRg8F2HrEYI9g8fl1rrOSyx8NEZCp4u70To8raNM4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 20 Dec 2024 02:25:13 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/lab15_maliarchuk/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

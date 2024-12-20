@@ -1,8 +1,7 @@
-﻿@page
-@model List<lab15_maliarchuk.Models.Product>
+﻿@model List<lab15_maliarchuk.Models.Product>
 
 <h1>Список продуктів</h1>
-@if (Model != null)
+@if (Model?.Count > 0)
 {
     <table>
         <thead>
@@ -21,16 +20,16 @@
                     <td>@product.Name</td>
                     <td>@product.Price.ToString("C")</td>
                     <td>
-                        <a href="/Product/Edit/@product.Id">Редагувати</a> |
-                        <a href="/Product/Delete/@product.Id">Видалити</a>
+                        <a asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id">Редагувати</a> |
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id">Видалити</a>
                     </td>
                 </tr>
             }
         </tbody>
     </table>
-    <a href="/Product/Create">Додати новий продукт</a>
 }
 else
 {
     <p>Немає доступних продуктів для відображення.</p>
 }
+<a asp-controller="Product" asp-action="Create">Додати новий продукт</a>

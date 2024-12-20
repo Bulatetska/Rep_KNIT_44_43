@@ -1,12 +1,15 @@
-﻿@page
-@model Product
+﻿@model lab15_maliarchuk.Models.Product
 
 <h1>Редагування продукту</h1>
 <form asp-action="Edit" method="post">
     <input type="hidden" asp-for="Id" />
-    <label>Назва:</label>
-    <input type="text" asp-for="Name" /><br />
-    <label>Ціна:</label>
-    <input type="number" asp-for="Price" /><br />
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" type="number" />
+    </div>
     <button type="submit">Зберегти</button>
 </form>

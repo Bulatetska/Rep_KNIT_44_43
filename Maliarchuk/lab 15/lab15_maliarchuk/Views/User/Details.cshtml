@@ -1,7 +1,6 @@
-﻿@page
-@model User
+﻿@model lab15_maliarchuk.Models.User
 
 <h1>Деталі користувача</h1>
 <p><strong>Ім'я:</strong> @Model.Name</p>
 <p><strong>Email:</strong> @Model.Email</p>
-<a href="/User/List">Повернутися до списку</a>
+<a asp-controller="User" asp-action="List">Повернутися до списку</a>
